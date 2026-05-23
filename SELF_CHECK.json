@@ -1,0 +1,10 @@
+{
+  "has_main": true,
+  "has_info_page": true,
+  "has_info_nav": true,
+  "has_lang_info_texts": true,
+  "has_clean_description": true,
+  "uses_beta_logo": true,
+  "no_missing_old_security_innerhtml": true,
+  "known_element_ids": true
+}
